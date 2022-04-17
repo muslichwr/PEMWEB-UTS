@@ -1,0 +1,59 @@
+[
+	{
+		"id": 1,
+		"gambar": "product-images/Gambarkatalog1.jfif",
+		"name": "Baju Muslim",
+		"price": "105.000",
+		"ukuran": "XL",
+		"warna": "Merah, Kuning, Hijau",
+		"email":"admin@jualanbaju.com",
+    	"Phone": "123456789",
+    	"Address": "Jl. Ahmad Yani No.1 Surabaya"
+
+	},
+	{
+		"id": 2,
+		"gambar": "product-images/Gambarkatalog2.jfif",
+		"name": "Baju Muslim Polos",
+		"price": "180.000",
+		"ukuran": "L",
+		"warna": "Hitam, Putih, Cream",
+		"email":"admin@jualanbaju.com",
+    	"Phone": "123456789",
+    	"Address": "Jl. Ahmad Yani No.2 Surabaya"
+	},
+	{
+		"id": 3,
+		"gambar": "product-images/Gambarkatalog3.jfif",
+		"name": "Baju Muslim Simple",
+		"price": "111.000",
+		"ukuran": "L",
+		"warna": "Putih, Abu-Abu, Hitam",
+		"email":"admin@jualanbaju.com",
+    	"Phone": "123456789",
+    	"Address": "Jl. Ahmad Yani No.3 Surabaya"
+	},
+	{
+		"id": 4,
+		"gambar": "product-images/Gambarkatalog4.jfif",
+		"name": "Baju Muslim Dewasa",
+		"price": "105.000",
+		"ukuran": "XL",
+		"warna": "Merah, Hitam, Abu-Abu",
+		"email":"admin@jualanbaju.com",
+    	"Phone": "123456789",
+    	"Address": "Jl. Ahmad Yani No.4 Surabaya"
+	},
+	{
+		"id": 5,
+		"gambar": "product-images/Gambarkatalog5.jfif",
+		"name": "Baju Muslim Lengan Panjang",
+		"price": "105.000",
+		"ukuran": "XL",
+		"warna": "Putih, Merah, Hitam",
+		"email":"admin@jualanbaju.com",
+    	"Phone": "123456789",
+    	"Address": "Jl. Ahmad Yani No.5 Surabaya"
+	}
+	
+]
